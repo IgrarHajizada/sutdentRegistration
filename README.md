@@ -1,4 +1,4 @@
-#Student Registration Appliacation
+Student Registration Appliacation
 
 Here we present the menu.
 
